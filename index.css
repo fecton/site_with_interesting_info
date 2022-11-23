@@ -1,0 +1,62 @@
+/*
+TAGS
+*/
+
+.colors{
+    color: #344D67;
+    color: #6ECCAF;
+    color: #ADE792;
+    color: #F3ECB9;
+}
+
+* {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #F3ECB0;
+}
+
+img{
+    width: 20vw;
+}
+
+header, footer{
+    background-color: #344D67;
+    color: #F3ECB0;
+    padding: 3vw;
+}
+
+article{
+    background-color: #6ECCAF;
+}
+
+hr{
+    margin: 1vw;
+}
+
+/*
+IDENTIFICATORS
+*/
+
+#articles{
+    width: 95%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+/*
+CLASSES
+*/
+
+.text{
+    padding: 1vw;
+}
+
+.images{
+    background-color: #ADE792;
+    width: 90%;
+    padding: 2vw;
+}
