@@ -26,15 +26,29 @@ img{
 header, footer{
     background-color: #344D67;
     color: #F3ECB0;
-    padding: 3vw;
+    padding: 2vw;
 }
 
 article{
     background-color: #6ECCAF;
 }
 
+a>img{
+    border-radius: 10vw;
+    width: 3vw;
+}
+
 hr{
     margin: 1vw;
+}
+
+th{
+    padding-left: 0.8vw;
+    padding-right: 0.8vw;
+}
+
+table{
+    margin: 1.3vw;
 }
 
 /*
